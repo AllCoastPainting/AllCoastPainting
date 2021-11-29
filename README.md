@@ -1,2 +1,1 @@
-# AllCoastPainting
-# AllCoastPainting
+permalink: /index.html
